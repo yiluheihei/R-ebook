@@ -48,10 +48,9 @@
 - [bookdown: Authoring Books and Technical Documents with R Markdown, free online](https://bookdown.org/yihui/bookdown/)
 - [blogdown: Creating Websites with R Markdown, free online](https://bookdown.org/yihui/blogdown/)
 
-
-
 ## Bioinformatics
 
+- [Computational Genomics with R, online](Computational Genomics with R)
 - [Bayesian Networks in R, with Applications in Systems Biology](Bayesian_Networks_in_R_with_Applications_in_system_biology.pdf)
 - [Statistical Analysis of Microbiome Data with R](Statistical_Analysis_of_Microbiome_Data_with_R.pdf)
 - [Primer to Analysis of Genomic Data Using R](Primer_to_Analysis_of_Genomic_Data_Using_R.pdf)
