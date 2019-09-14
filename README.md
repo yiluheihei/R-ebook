@@ -14,7 +14,8 @@
 
 ## Statistics, Data Science, Machine Learning
 
-- [R for Data Science, free online](https://r4ds.had.co.nz/) 
+- [R for Data Science, free online](https://r4ds.had.co.nz/)
+- [An Introduction to Statistical Learning, with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 - [Statistical Inference via Data Science, A morderndive into R and the tidyverse, free online](https://moderndive.com/index.html)
 - [Exploratory Data Analysis with R](Exploratory_Data_Analysis_with_R.pdf)
 - [Data Science in R](Data_Science_in_R.pdf)
@@ -54,6 +55,7 @@
 - [Bayesian Networks in R, with Applications in Systems Biology](Bayesian_Networks_in_R_with_Applications_in_system_biology.pdf)
 - [Statistical Analysis of Microbiome Data with R](Statistical_Analysis_of_Microbiome_Data_with_R.pdf)
 - [Primer to Analysis of Genomic Data Using R](Primer_to_Analysis_of_Genomic_Data_Using_R.pdf)
+- [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/index.html)
 
 ## Network analysis
 
