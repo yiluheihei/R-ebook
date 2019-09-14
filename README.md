@@ -31,7 +31,7 @@
   the base graphics system and the **grid** graphics system (**ggplot2** and 
   **lattice** package)
 - [现代统计图形, free online](https://bookdown.org/xiangyun/msg/)
-- [Data Visualization, A Practical Introduction](Data Visualization, A Practical Introduction.pdf)
+- [Data Visualization, A Practical Introduction](Data_Visualization_A_Practical_Introduction.pdf)
 - [Data Visualization with R, free online](https://rkabacoff.github.io/datavis/),
   relies heavily on the ggplot2 package for graphics, but other approaches are 
   covered as well
