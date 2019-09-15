@@ -2,6 +2,8 @@
 
 ## Base R
 
+- [R in Action Data Analysis and Graphics with R](R_in_Action_Data_Analysis_and_Graphics_with_R.pdf),
+  the first book I used to learn R
 - [Advanced R, free online](https://adv-r.hadley.nz/), and the solutions to the 
   exercises in the book is provided in [Advanced R solutions](https://advanced-r-solutions.rbind.io/)
 - [R Packages, free online](https://r-pkgs.org/)
