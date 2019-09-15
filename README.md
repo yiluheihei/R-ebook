@@ -27,6 +27,7 @@
 - [Software for Data Analysis Programming with R](Software_for_Data_Analysis_Programming_with_R.pdf)
 - [Automated Data Collection with R](Automated_Data_Collection_with_R.pdf)
 - [Introductory Statistics With R](Introductory_Statistics_With_R.pdf)
+- [R Programming for Data Science](R_Programming_for_Data_Science.pdf)
 
 ## Visualization
 
@@ -35,6 +36,7 @@
 - [R Graphics](R_Graphics.pdf), describes the two core graphics system in R, the base graphics system and the **grid** graphics system (**ggplot2** and **lattice** package)
 - [现代统计图形, free online](https://bookdown.org/xiangyun/msg/)
 - [Data Visualization, A Practical Introduction](Data_Visualization_A_Practical_Introduction.pdf)
+- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/), source code is host on [github](https://github.com/clauswilke/dataviz)
 - [Data Visualization with R, free online](https://rkabacoff.github.io/datavis/), relies heavily on the ggplot2 package for graphics, but other approaches are covered as well
 - [Interactive web-based data visualization with R, plotly, and shiny, free online](https://plotly-r.com/), interactive and dynamic web graphics for data analysis from R. It makes heavy use of plotly for rendering graphics, but you’ll also learn about other R packages that augment a data science workflow, such as the tidyverse and shiny
 
@@ -46,8 +48,9 @@
 - [bookdown: Authoring Books and Technical Documents with R Markdown, free online](https://bookdown.org/yihui/bookdown/)
 - [blogdown: Creating Websites with R Markdown, free online](https://bookdown.org/yihui/blogdown/)
 
-## Bioinformatics
+## Bioinformatics - data analysis
 
+- [Data Analysis for the Life Science](Data_Analysis_for_the_Life_Science.pdf)
 - [Computational Genomics with R, free online](http://compgenomr.github.io/book/)
 - [Bayesian Networks in R, with Applications in Systems Biology](Bayesian_Networks_in_R_with_Applications_in_system_biology.pdf)
 - [Statistical Analysis of Microbiome Data with R](Statistical_Analysis_of_Microbiome_Data_with_R.pdf)
