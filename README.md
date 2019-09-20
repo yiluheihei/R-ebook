@@ -28,7 +28,7 @@
 - [Software for Data Analysis Programming with R](Software_for_Data_Analysis_Programming_with_R.pdf)
 - [Automated Data Collection with R](Automated_Data_Collection_with_R.pdf)
 - [Introductory Statistics With R](Introductory_Statistics_With_R.pdf)
-- [R Programming for Data Science](R_Programming_for_Data_Science.pdf)
+- [R Programming for Data Science](R_Programming_for_Data_Science.pdf), the online free version is [here](https://bookdown.org/rdpeng/rprogdatascience/)
 
 ## Visualization
 
