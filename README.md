@@ -29,6 +29,7 @@
 - [Automated Data Collection with R](Automated_Data_Collection_with_R.pdf)
 - [Introductory Statistics With R](Introductory_Statistics_With_R.pdf)
 - [R Programming for Data Science](R_Programming_for_Data_Science.pdf), the online free version is [here](https://bookdown.org/rdpeng/rprogdatascience/)
+- [STAT545, Data wrangling, exploration, and analysis in R, free on line](https://stat545.com/index.html)
 
 ## Visualization
 
