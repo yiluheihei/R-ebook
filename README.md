@@ -31,6 +31,7 @@
 - [R Programming for Data Science](R_Programming_for_Data_Science.pdf), the online free version is [here](https://bookdown.org/rdpeng/rprogdatascience/)
 - [STAT545, Data wrangling, exploration, and analysis in R, free on line](https://stat545.com/index.html)
 - [Introduction to Data Science, Data Analysis and Prediction Algorithms with R, free online](https://rafalab.github.io/dsbook/)
+- [Learning Statistics with R, free](https://learningstatisticswithr.com/)
 
 ## Visualization
 
