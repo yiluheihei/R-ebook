@@ -32,6 +32,7 @@
 - [STAT545, Data wrangling, exploration, and analysis in R, free on line](https://stat545.com/index.html)
 - [Introduction to Data Science, Data Analysis and Prediction Algorithms with R, free online](https://rafalab.github.io/dsbook/)
 - [Learning Statistics with R, free](https://learningstatisticswithr.com/)
+- [Doing Bayesian Data Analysis in brms and the tidyverse, free online](https://bookdown.org/ajkurz/DBDA_recoded/)
 
 ## Visualization
 
@@ -77,6 +78,10 @@
 ## Geographic analysis
 
 - [Geocomputation with R, free online](https://geocompr.robinlovelace.net/)
+
+## High performance computing
+
+- [Mastering Spark with R, free online](https://therinspark.com/)
 
 ## R - other Programming Language
 
