@@ -9,7 +9,7 @@
 - [Advanced R, free online](https://adv-r.hadley.nz/), and the solutions to the exercises in the book is provided in [Advanced R solutions](https://advanced-r-solutions.rbind.io/)
 - [R Packages, free online](https://r-pkgs.org/)
 - [Happy Git and Github for the useR, free online](https://happygitwithr.com/)
-- [What They Forgot to Teach You about R, free online](https://whattheyforgot.org/), designed for experienced R and RStudio users who want to (re)design their R lifestyle and will improve your efficiency for R
+- [What They Forgot to Teach You about R, free online](https://rstats.wtf/), designed for experienced R and RStudio users who want to (re)design their R lifestyle and will improve your efficiency for R
 - [Efficient R programming, free online](https://csgillespie.github.io/efficientR/)
 - [Extending R](Extending_R.pdf)
 - [Mastring Software Development in R, free online](https://bookdown.org/rdpeng/RProgDA/)
@@ -33,6 +33,7 @@
 - [Introduction to Data Science, Data Analysis and Prediction Algorithms with R, free online](https://rafalab.github.io/dsbook/)
 - [Learning Statistics with R, free](https://learningstatisticswithr.com/)
 - [Doing Bayesian Data Analysis in brms and the tidyverse, free online](https://bookdown.org/ajkurz/DBDA_recoded/)
+- [Hands-on Machine Learning with R, free online](https://bradleyboehmke.github.io/HOML/)
 
 ## Visualization
 
