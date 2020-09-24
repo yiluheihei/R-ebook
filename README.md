@@ -71,6 +71,7 @@
 ## Web Technology
 
 - [Mastering Shiny, free online](https://mastering-shiny.org/)
+- [Mastering Shiny Solutions, free online](https://mastering-shiny-solutions.org/functions.html)
 - [XML and Web Technologies for Data Sciences](XML_and_Web_Technologies_for_Data_Sciences.pdf)
 
 ## Text mining
