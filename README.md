@@ -89,6 +89,7 @@
 
 -   [Python for R users a data science approach](Python_for_R_users.pdf)
 -   [Another Book on Data Science, Learn R and Python in Parallel, free online](https://www.anotherbookondatascience.com/)
+-   [JavaScript for R, free online](https://book.javascript-for-r.com/)
 
 There are also many free R programming ebooks which are build on top of [bookdown](https://github.com/rstudio/bookdown) hosted on the website [bookdown.org](whttps://bookdown.org/home/archive/). Some of them that I have read (at leaset a part) have been listed above.
 
