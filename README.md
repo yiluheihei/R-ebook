@@ -15,6 +15,7 @@
 -   [Mastring Software Development in R, free online](https://bookdown.org/rdpeng/RProgDA/)
 -   [Rcpp for everyone, free online](https://teuder.github.io/rcpp4everyone_en/)
 -   [Hands-On Programming with R, free online](https://rstudio-education.github.io/hopr/)
+-   [An introduction to R, free online](https://intro2r.com/)
 
 ## Statistics, Data Science, Machine Learning
 
