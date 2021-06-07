@@ -20,7 +20,7 @@
 ## Statistics, Data Science, Machine Learning
 
 -   [R for Data Science, free online](https://r4ds.had.co.nz/)
--   [An Introduction to Statistical Learning, with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+-   [An Introduction to Statistical Learning, with Applications in R](https://www.statlearning.com/); tidymodels version of ILS, [free online](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
 -   [Statistical Inference via Data Science, A morderndive into R and the tidyverse, free online](https://moderndive.com/index.html)
 -   [Exploratory Data Analysis with R](Exploratory_Data_Analysis_with_R.pdf)
 -   [Data Science in R](Data_Science_in_R.pdf)
