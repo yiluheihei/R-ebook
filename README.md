@@ -35,6 +35,9 @@
 -   [Doing Bayesian Data Analysis in brms and the tidyverse, free online](https://bookdown.org/ajkurz/DBDA_recoded/)
 -   [Hands-on Machine Learning with R, free online](https://bradleyboehmke.github.io/HOML/)
 -   [Tidy modeling with R, free on line](https://www.tmwr.org/)
+-   [Introduction to Modern Statistics, free on line](https://openintro-ims.netlify.app/)
+-   [Bayes Rules! An Introduction to Bayesian Modeling with R, free on line](https://www.bayesrulesbook.com/)
+-   [Modern Data Science with R, free online](https://mdsr-book.github.io/mdsr2e/)
 
 ## Visualization
 
