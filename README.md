@@ -1,5 +1,7 @@
 # R programming ebooks
 
+[Big Book for R](https://www.bigbookofr.com/index.html), a book which collected R-related programming books.
+
 ## Base R
 
 -   [R in Action Data Analysis and Graphics with R](R_in_Action_Data_Analysis_and_Graphics_with_R.pdf), the first book I used to learn R
@@ -7,8 +9,6 @@
 -   [Getting used to R, RStudio, and R Markdown, free online](https://bookdown.org/chesterismay/rbasics/), provide new users to R, RStudio, and R Markdown with the introductory steps needed to begin their own reproducible research
 -   [R cookbook, 2nd Edition, free online](https://rc2e.com/), qucik reference manual for common R programming problems
 -   [Advanced R, free online](https://adv-r.hadley.nz/), and the solutions to the exercises in the book is provided in [Advanced R solutions](https://advanced-r-solutions.rbind.io/)
--   [R Packages, free online](https://r-pkgs.org/)
--   [Happy Git and Github for the useR, free online](https://happygitwithr.com/)
 -   [What They Forgot to Teach You about R, free online](https://rstats.wtf/), designed for experienced R and RStudio users who want to (re)design their R lifestyle and will improve your efficiency for R
 -   [Efficient R programming, free online](https://csgillespie.github.io/efficientR/)
 -   [Extending R](Extending_R.pdf)
@@ -16,6 +16,13 @@
 -   [Rcpp for everyone, free online](https://teuder.github.io/rcpp4everyone_en/)
 -   [Hands-On Programming with R, free online](https://rstudio-education.github.io/hopr/)
 -   [An introduction to R, free online](https://intro2r.com/)
+
+## R development
+
+-   [R Packages, free online](https://r-pkgs.org/)
+-   [Happy Git and Github for the useR, free online](https://happygitwithr.com/)
+-   [R Development Guide](https://forwards.github.io/rdevguide/)
+
 
 ## Statistics, Data Science, Machine Learning
 
@@ -38,10 +45,14 @@
 -   [Introduction to Modern Statistics, free on line](https://openintro-ims.netlify.app/)
 -   [Bayes Rules! An Introduction to Bayesian Modeling with R, free on line](https://www.bayesrulesbook.com/)
 -   [Modern Data Science with R, free online](https://mdsr-book.github.io/mdsr2e/)
+-   [Data Analytics with R:A Recipe Book](https://ryangarnett.github.io/r-recipe-book/)
+-   [Model Estimation by Example, Demonstrations with R](https://m-clark.github.io/models-by-example/)
+-   [DevOps for Data Science](https://akgold.github.io/do4ds/index.html)
 
 ## Visualization
 
 -   [ggplot2: Elegant Graphics for Data Analysis, free online](https://ggplot2-book.org/index.html)
+-   [solutions to ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book-solutions-3ed.netlify.app/index.html)
 -   [R Graphics Cookbook, free online](https://r-graphics.org/)
 -   [R Graphics](R_Graphics.pdf), describes the two core graphics system in R, the base graphics system and the **grid** graphics system (**ggplot2** and **lattice** package)
 -   [现代统计图形, free online](https://bookdown.org/xiangyun/msg/)
@@ -70,6 +81,7 @@
 ## Network analysis
 
 -   [A User's Guide to Network Analysis in R](A_User's_Guide_to_Network_Analysis_in_R.pdf)
+-   [Handbook of Graphs and Networks in People Analytics: With Examples in R and Python](https://ona-book.org/)
 
 ## Web Technology
 
