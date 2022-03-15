@@ -48,6 +48,7 @@
 -   [Data Analytics with R:A Recipe Book](https://ryangarnett.github.io/r-recipe-book/)
 -   [Model Estimation by Example, Demonstrations with R](https://m-clark.github.io/models-by-example/)
 -   [DevOps for Data Science](https://akgold.github.io/do4ds/index.html)
+-   [Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/)
 
 ## Visualization
 
